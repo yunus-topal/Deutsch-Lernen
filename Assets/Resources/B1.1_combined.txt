@@ -1,0 +1,356 @@
+der Abfall | the waste
+der Abflug | the departure
+die Absage | the cancellation
+der Alkohol | the alcohol
+die Anzeigetafel | the display board
+der Aufruf | the call
+der Ausgang | the exit
+die Ausstattung | the equipment
+der Behälter | the container
+der/die Bewohner/in | the resident
+die Bordkarte | the boarding pass
+der/die Camper/in | the camper
+der Campingplatz | the campsite
+der Check-in-Schalter | the check-in desk
+der Container | the container
+die Dienstreise | the business trip
+das Doppelbett | the double bed
+das Doppelzimmer (DZ) | the double room (DR)
+die Einsteigezeit | the boarding time
+das Einzelzimmer (EZ) | the single room (SR)
+der Flug | the flight
+der/die Flugbegleiter/in | the flight attendant
+der Fluggast | the passenger
+die Fluggesellschaft | the airline
+das Gate | the gate
+das Gepäck | the luggage
+die Gepäckausgabe | the baggage claim
+das Gepäckband | the baggage belt
+die Halbpension (HP) | the half board (HB)
+das Handgepäck | the hand luggage
+das Hostel | the hostel
+das Inlineskaten | the inline skating
+die Jugendherberge | the youth hostel
+der Katalog | the catalogue
+die Lage | the location
+das Lagerfeuer | the campfire
+der Lärm | the noise
+die Lautsprecherdurchsage | the loudspeaker announcement
+die Leine | the line
+der Leuchtturm | the lighthouse
+der Meerblick | the sea view
+der Nebel | the fog
+das Paradies | the paradise
+der/die Passagier/in | the passenger
+die Passkontrolle | the passport control
+der Pilotenstreik | the pilots' strike
+der Pool | the pool
+das Reisebüro | the travel agency
+der Reiseplan | the travel plan
+die Reiseplanung | the travel planning
+die Ruhezeit | the rest period
+die Sauberkeit | the cleanliness
+der Schalter | the counter
+die Schlange | the queue
+der Sonnenschirm | the parasol
+die Sonnenterrasse | the sun terrace
+der Sonnenuntergang | the sunset
+der Stern | the star
+das Streichholz | the match
+die Taschenlampe | the flashlight
+das Taschenmesser | the pocket knife
+die Übernachtung | the overnight stay
+die Übernachtung mit Frühstück (ÜF) | the overnight stay with breakfast
+die Umgebung | the surroundings
+der Wanderer | the hiker
+die Wandertour | the hiking tour
+der Waschraum | the washroom
+der Wohnwagen | the caravan
+das Zelt | the tent
+der Zoll | the customs
+der Zuschlag | the surcharge
+der Abstellplatz | the parking space
+der Ärger | the anger
+die Aufregung | the excitement
+die Ausnahme | the exception
+das Balkongeländer | the balcony railing
+die Beleidigung | the insult
+die Beschimpfung | the abuse
+der Blumentopf | the flowerpot
+die Entscheidung | the decision
+die Freude | the joy
+die Frist | the deadline
+der Gemeinschaftsraum | the common room
+die Instandhaltung | the maintenance
+der Konflikt | the conflict
+die Kündigung | the termination
+das Meerschweinchen | the guinea pig
+die Mieterhöhung | the rent increase
+der Mietspiegel | the rent index
+der Mietvertrag | the rental agreement
+die Modernisierung | the modernization
+der/die Richter/in | the judge
+die Rücksicht | the consideration
+der Schaden | the damage
+das Unrecht | the injustice
+das Urteil | the verdict
+das Verständnis | the understanding
+der Verstoß | the violation
+der Widerspruch | the contradiction
+der Zeitraum | the period of time
+die Zimmerlautstärke | the room noise
+das Zusammenleben | the living together
+der Zutritt | the access
+das Abgas | the exhaust gases
+das Abwasser | the waste water
+das Altöl | the used oil
+das Altpapier | the used paper
+das Aluminium | the aluminum
+die Begleitperson | the accompanying person
+die Belastung | the load
+der Beutel | the bag
+die Chemikalie | the chemicals
+der Deckel | the lid
+der Eierkarton | the egg carton
+die Eierschale | the eggshell
+das Elektroauto | the electric car
+das Energiesparhaus | the energy-saving house
+die Energiesparlampe | the energy-saving light bulb
+das Erdbeben | the earthquake
+die Erde | the earth
+die Erderwärmung | the Global warming
+die Erlaubnis | the permission
+der/die Förster/in | the forester
+der Gegenstand | the object
+der Gegenvorschlag | the counter-proposal
+der Haushalt | the household
+das Hochwasser | the flood
+der/die Hörer/in | the listener
+der Kaffeefilter | the coffee filter
+das Klima | the climate
+der Klimawandel | the climate change
+die Konservendose | the tin can
+der Kunststoff | the plastic
+die Luft | the air
+die Matratze | the mattress
+das Metall | the metal
+der Milchkarton | the milk carton
+die Mülltonne | the garbage can
+die Mülltrennung | the waste separation
+die Naturkatastrophe | the natural disaster
+das Naturprodukt | the natural product
+die Obstschale | the fruit bowl
+der Papiermüll | the paper waste
+die Pappe | the cardboard
+das Picknick | the picnic
+der Planet | the planet
+das Plastik | the plastic
+der Sack | the sack
+die Sammelstelle | the collection point
+der Schadstoff | the pollutant
+die Solarenergie | the solar energy
+der Sondermüll | the hazardous waste
+der Sonnenschein | the sunshine
+die Sorge | the worry
+der Sperrmüll | the bulky waste
+der Tierschutz | the animal welfare
+das Trinkwasser | the drinking water
+der Tsunami | the tsunami
+der Turm | the tower
+der Umweltschutz | the environmental protection
+die Umweltverschmutzung | the environmental pollution
+das Unwetter | the storm
+die Verschwendung | the waste
+der Wertstoff | the recyclable material
+der Wind | the wind
+die Windel | the diaper
+der Wirbelsturm | the hurricane
+die Wolke | the cloud
+die Zerstörung | the destruction
+die Zigarettenkippe | the cigarette butt
+die Anprobe | the fitting
+die Art | the type
+die Artikelnummer | the article number
+die Atmung | the breathing
+der Auftrag | the order
+die Auftragsnummer | the order number
+die Auswahl | the selection
+der Bankeinzug | the direct debit
+die Bestellhotline | the order hotline
+der Betrag | the amount
+der Bezahlvorgang | the payment process
+das Callcenter | the call center
+der Datenschutz | the data protection
+das Eigentum | the property
+die Ergänzung | the addition
+der Gutschein | the voucher
+die Herstellung | the production
+das Impressum | the imprint
+der Kauf | the purchase
+die Kaufbestätigung | the purchase confirmation
+der/die Käufer/in | the buyer
+der Kaufvertrag | the purchase contract
+die Kosmetik | the cosmetics
+die Kundenbefragung | the customer survey
+das Lager | the warehouse
+die Lieferbedingung | the delivery conditions
+die Lieferung | the delivery
+die Mehrkosten (Pl.) | the additional costs (pl.)
+die Nachnahme | the cash on delivery
+der Nachteil | the disadvantage
+der Onlineeinkauf | the online purchase
+der Onlineshop | the online shop
+das Onlineshopping | the online shopping
+das Paket | the package
+der Paketbote | the courier
+der Paketdienst | the parcel service
+das Porto | the postage
+die Portokosten (Pl.) | the postage costs (pl.)
+die Qualität | the quality
+die Reklamation | the complaint
+die Retoure | the return
+der Retourenschein | the return slip
+die Rücksendung | the return
+das Shopping | the shopping
+der/die Verbraucher/in | the consumer
+der Versand | the dispatch
+die Versandkosten (Pl.) | the shipping costs (pl.)
+die Versandkostenpauschale | the flat rate shipping costs
+die Ware | the goods
+der Warenkorb | the shopping cart
+der Werktag | the working day
+das Widerrufsrecht | the right of withdrawal
+die Zahlung | the payment
+das Alter | the age
+der Anstoß | the kick-off
+das Autorennen | the car race
+der Biergarten | the beer garden
+das Boxen | the boxing
+die Chips (Pl.) | the chips (pl.)
+die Detektivgeschichte | the detective story
+das Diagramm | the diagram
+die Diskussion | the discussion
+die Dokumentation (Doku) | the documentation (doc)
+der Durchschnitt | the average
+die DVD | the DVD
+das Eishockey | the ice hockey
+der Eiskunstlauf | the figure skating
+das Ereignis | the event
+das Ergebnis | the result
+der/die Experte/Expertin | the expert
+der Fan | the fan
+der Fußballclub | the football club
+die Gewohnheit | the habit
+das Golf | the golf
+der Handball | the handball
+das Herz | the heart
+der Horrorfilm | the horror film
+der/die Kandidat/in | the candidate
+der/die Kommissar/in | the inspector
+der/die Kommentator/in | the commentator
+die Komödie | the comedy
+der Krimi | the crime thriller
+die Langeweile | the boredom
+die Leichtathletik | the athletics
+die Lieblingsbeschäftigung | the favourite pastime
+das Magazin | the magazine
+die Mannschaft | the team
+die Mehrheit | the majority
+die Minderheit | the minority
+das Mittelfeld | the midfield
+die Moderation | the presenter
+der Mord | the murder
+die Niederlage | the defeat
+die Quizshow | the quiz show
+das Radrennen | the cycling race
+die Rangliste | the rankings
+das Rätsel | the riddle
+die Reportage | the report
+der/die Reporter/in | the reporter
+die Runde | the round
+der Schiedsrichter | the referee
+die Seifenoper | the soap opera
+die Sendung | the programme
+die Serie | the series
+der/die Sieger/in | the winner
+der Skisport | the skiing
+die Soap | the soap
+der/die Spieler/in | the player
+der Spielfilm | the feature film
+das Stadion | the stadium
+die Statistik | the statistics
+der Tagesablauf | the daily routine
+die Talkshow | the talk show
+das Tor | the goal
+der/die Torwart/in | the goalkeeper
+der/die Tote | the dead person
+die Übertragung | the broadcast
+die Unterhaltung | the entertainment
+der/die Verlierer/in | the loser
+die Weltmeisterschaft (WM) | the World Cup
+der Zeichentrickfilm | the cartoon
+die Zeitverschwendung | the waste of time
+der/die Zuschauer/in | the spectator
+der/die Alliierte | the Allies
+die Amtssprache | the official language
+die Arbeitskraft | the workforce
+die Arbeitslosigkeit | unemployment
+der/die Astronaut/in | the astronaut
+das Asyl | asylum
+der Auswanderer | the emigrant
+die Auswanderung | emigration
+die Besatzungszone | the occupied zone
+der/die Bundeskanzler/in | the Chancellor
+die Bundesrepublik (BRD) | the Federal Republic (FRG)
+der/die Bürger/in | the citizen
+der Bürgerkrieg | the civil war
+die Demokratie | democracy
+die Demonstration | the demonstration
+die Deutsche Demokratische Republik | the German Democratic Republic
+ | (GDR)
+(DDR) | immigration
+die Einwanderung | memory
+die Erinnerung | the European Union (EU)
+die Europäische Union (EU) | the introduction of the euro
+die Euroeinführung | the refugee
+der Flüchtling | the foreign language
+die Fremdsprache | the guest worker
+der/die Gastarbeiter/in | the feeling
+das Gefühl | the opponent
+der/die Gegner/in | the salary
+das Gehalt | the spice
+das Gewürz | the border
+die Grenze | the capital
+die Hauptstadt | the homeland
+die Heimat | the industry
+die Industrie | the century
+das Jahrhundert | the decade
+das Jahrzehnt | the Jew
+der/die Jude/Jüdin | childhood
+die Kindheit | the war
+der Krieg | the end of the war
+das Kriegsende | the crib
+die Krippe | the critic
+der/die Kritiker/in | the wall
+die Mauer | the building of the wall
+der Mauerbau | the fall of the wall
+der Mauerfall | medicine
+die Medizin | migration
+die Migration | the mother tongue
+die Muttersprache | the post-war period
+die Nachkriegszeit | National Socialism
+der Nationalsozialismus | NATO
+die NATO | the emergency shelter
+die Notunterkunft | the opening
+die Öffnung | the phase
+die Phase | the protest
+der Protest | the government
+die Regierung | the republic
+die Republik | the Russian German
+der/die Russlanddeutsche | the state
+der Staat | the founding of the state
+die Staatsgründung | the scholarship
+das Stipendium | the division
+die Teilung | the visa
+das Visum | space
+das Weltall | the reunification

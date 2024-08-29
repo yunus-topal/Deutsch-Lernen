@@ -1,0 +1,318 @@
+der Abend | the evening
+die Aussage | the statement
+der Dialog | the dialogue
+die Entschuldigung | the apology
+die Form | the form
+die Frage | the question
+die Frau | the woman
+die Grammatik | the grammar
+der Herr | the gentleman
+der Kurs | the course
+der Kursteilnehmer | the course participant
+die Kursteilnehmerin | the course participant
+das Land | the country
+der Mann | the man
+die Nacht | the night
+der Name | the name
+die Person | the person
+der Satz | the sentence
+die Sprache | the language
+der Tag | the day
+das Wiedersehen | the reunion
+das Wort | the word
+die Adresse | the address
+die Anmeldung | the registration
+das Bild | the picture
+der Bruder | the brother
+die Eltern (Pl.) | the parents (pl.)
+die Familie | the family
+der Familienname | the family name
+der Familienstand | the marital status
+das Formular | the form
+die Geschwister (Pl.) | the siblings (pl.)
+die Handynummer | the mobile phone number
+die Hausnummer | the house number
+das Heimatland | the home country
+die Information | the information
+das Jahr | the year
+das Kind | the child
+der Kindergarten | the kindergarten
+der Kontakt | the contact
+die E-Mail | the e-mail
+die Mutter | the mother
+der Nachname | the surname
+die Postleitzahl | the postcode
+die Schwester | the sister
+die Schwägerin | the sister-in-law
+die Schwiegertochter | the daughter-in-law
+der Schwiegervater | the father-in-law
+der Sohn | the son
+die Straße | the street
+die Telefonnummer | the telephone number
+die Tochter | the daughter
+der Vater | the father
+der Vorname | the first name
+der Wohnort | the place of residence
+die Zahl | the number
+das Blatt | the leaf
+der Bleistift | the pencil
+das Buch | the book
+der Deutschkurs | the German course
+der Dienstag | Tuesday
+der Donnerstag | Thursday
+das Familienfoto | the family photo
+der Feiertag | the holiday
+das Fenster | the window
+das Foto | the photo
+der Freitag | Friday
+der Freund | the friend
+der Gruß | the greeting
+die Hausaufgabe | the homework
+das Heft | the notebook
+die Karte | the card
+der Kugelschreiber (Kuli) | the pen (biros)
+das Kursbuch | the course book
+der Kursraum | the classroom
+die Lampe | the lamp
+die Landkarte | the map
+der Lehrer | the teacher
+die Lehrerin | the teacher
+die Liste | the list
+der Mittwoch | the Wednesday
+der Montag | the Monday
+das Papier | the paper
+der Papierkorb | the wastepaper basket
+die Pause | the break
+das Problem | the problem
+der Projektor | the projector
+der Radiergummi | the eraser
+der Raum | the room
+der Rucksack | the rucksack
+die Sache | the thing
+der Samstag | Saturday
+die Seite | the page
+der Schlüssel | the key
+der Sonntag | Sunday
+der Spaß | the fun
+der Spitzer | the sharpener
+der Stuhl | the chair
+die Tabelle | the table
+die Tafel | the blackboard
+die Tasche | the bag
+der Text | the text
+der Tisch | the table
+die Tür | the door
+die Übung | the exercise
+das Übungsbuch | the exercise book
+die Wand | the wall
+die Woche | the week
+das Wochenende | the weekend
+das Wörterbuch | the dictionary
+der Zettel | the note
+das Angebot | the offer
+die Antwort | the answer
+der Apfel | the apple
+der Apfelsaft | the apple juice
+die Aufgabe | the task
+die Babynahrung | the baby food
+die Banane | the banana
+der Becher | the cup
+das Beispiel | the example
+das Bier | the beer
+die Birne | the pear
+das Bistro | the bistro
+die Blaubeere | the blueberry
+die Bohne | the bean
+das Brot | the bread
+das Brötchen | the roll
+der Cent | the cent
+die Cola | the cola
+der Couscous | the couscous
+die Dose | the tin
+das Ei | the egg
+der Einkaufszettel | the shopping list
+die Erbse | the pea
+die Erdbeere | the strawberry
+der Fisch | the fish
+die Flasche | the bottle
+das Fleisch | the meat
+das Frühstück | breakfast
+das Gemüse | the vegetable
+das Getränk | the drink
+das Glas | the glass
+das Gramm | the gram
+die Himbeere | the raspberry
+der Honig | the honey
+der Joghurt | the yoghurt
+der Kaffee | the coffee
+die Kartoffel | the potato
+der Käse | cheese
+der Keks | the biscuit
+die Kichererbse | the chickpea
+das Kilo | the kilo
+die Kirsche | the cherry
+die Kiwi | the kiwi
+die Kontrolle | the check
+der Kuchen | the cake
+der Kunde | the customer
+die Kundin | the customer
+das Lammfleisch | the lamb
+das Lebensmittel | the food
+die Limonade (Limo) | the lemonade (soda)
+der Liter | the litre
+die Mandarine | the tangerine
+die Mango | the mango
+der Markt | the market
+die Marmelade | the jam
+das Mehl | the flour
+die Mengenangabe | the quantity
+die Melone | the melon
+die Milch | milk
+das Milchprodukt | milk product
+die Möhre | the carrot
+die Nudel | pasta
+das Obst | fruit
+der Obstsalat | fruit salad
+das Olivenöl | olive oil
+die Orange | the orange
+die Packung | the packet
+die Paprika | the pepper
+der Partner | the partner
+die Partnerin | the partner
+das Pfund | the pound
+der Pilz | the mushroom
+der Preis | the price
+der Pudding | the pudding
+der Reis | the rice
+das Rindfleisch | the beef
+der Saft | the juice
+die Sahne | the cream
+der Salat | the salad
+das Salz | the salt
+die Schokolade | the chocolate
+das Schweinefleisch | the pork
+das Stück | the piece
+die Tasse | the cup
+der Tee | the tea
+der Tipp | the tip
+die Tomate | the tomato
+die Traube | the grape
+der Verkäufer | the seller
+die Verkäuferin | the shop assistant
+das Wasser | the water
+der Wein | the wine
+die Zitrone | the lemon
+der Zucker | the sugar
+die Zwiebel | the onion
+der Alltag | everyday life
+die Arbeit | work
+das Bett | the bed
+das Büro | the office
+der Computer | the computer
+das Computerspiel | the computer game
+der Film | the film
+die Freundin | the girlfriend
+der Fußball | the football
+der Hunger | the hunger
+die Idee | the idea
+das Interview | the interview
+der Mittag | the lunch
+die Mittagspause | the lunch break
+der Morgen | the morning
+die Musik | the music
+der Nachmittag | the afternoon
+der Notizzettel | the notepad
+die Pizza | the pizza
+der Schluss | the end
+die Schule | the school
+das Spiel | the game
+der Sport | the sport
+die Stunde | the lesson
+der Stundenplan | the timetable
+der Supermarkt | the supermarket
+die Uhr | the clock
+die Uhrzeit | the time
+der Unterricht | the lesson
+das Viertel | the neighbourhood
+der Vormittag | the morning
+die Wohnung | the flat
+die Zeit | the time
+der Altbau | the old building
+die Angabe | the indication
+die Anzeige | the display
+das Arbeitszimmer | the study
+das Bad | the bathroom
+die Badewanne | the bathtub
+das Badezimmer | the bathroom
+der Balkon | the balcony
+der Bauernhof | the farm
+der Besichtigungstermin | the viewing appointment
+die Diele | the hallway
+die Dusche | the shower
+das Einfamilienhaus | the detached house
+das Elektrogerät | the electrical appliance
+das Erdgeschoss | the ground floor
+der Euro | the Euro
+der Fernseher | the television
+die Firma | the company
+der Flur | the corridor
+die Garage | the garage
+der Garten | the garden
+der Gast | the guest
+das Geld | the money
+das Gerät | the appliance
+das Geschäft | the shop
+das Gespräch | the conversation
+die Größe | the size
+die Hauptsache | the main thing
+das Haus | the house
+das Haustier | the pet
+die Heizung | the heating
+der Herd | the cooker
+die Hilfe | the help
+das Hochhaus | the tower block
+die Immobilie | the property
+der Juni | June
+die Kaffeemaschine | the coffee machine
+die Kaution | the deposit
+der Keller | the cellar
+das Kinderzimmer | the children's room
+der Kleiderschrank | the wardrobe
+die Küche | the kitchen
+der Kühlschrank | the fridge
+das Mehrfamilienhaus | the apartment block
+die Miete | the rent
+die Möbel (Pl.) | the furniture (pl.)
+der Monat | the month
+die Monatsmiete | the monthly rent
+der Müll | the rubbish
+die Nebenkosten | the service charges
+das Obergeschoss | the upper floor
+der Ort | the place
+die Pflanze | the plant
+der Plan | the plan
+der Platz | the space
+der Quadratmeter | the square metre
+das Regal | the shelf
+das Reihenhaus | the terraced house
+das Schlafzimmer | the bedroom
+der Schrank | the wardrobe
+der Sessel | the armchair
+das Sofa | the sofa
+das Sonderangebot | the special offer
+die Sonne | the sun
+die Sprachschule | the language school
+die Spülmaschine | the dishwasher
+die Stadt | the city
+der Teppich | the carpet
+die Terrasse | the terrace
+die Toilette | the toilet
+die Traumwohnung | the dream flat
+die Waschmaschine | the washing machine
+das WC | the WC
+die Wohnungsanzeige | the flat advert
+die Wohnungssuche | the flat search
+das Wohnzimmer | the living room
+die Zeitung | the newspaper
+das Zentrum | the centre
+das Zimmer | the room

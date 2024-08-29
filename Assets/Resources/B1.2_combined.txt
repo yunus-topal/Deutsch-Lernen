@@ -1,0 +1,230 @@
+die Abwicklung | the processing
+die Anerkennung | the recognition
+der Anfang | the beginning
+die Bearbeitung | the processing
+die Beglaubigung | the certification
+der/die Bekannte | the acquaintance
+die Enttäuschung | the disappointment
+der Erhalt | the receipt
+die Erklärung | the explanation
+die Fähigkeit | the ability
+die Fantasie | the imagination
+die Formalität | the formality
+die Fotokopie | the photocopy
+der Frieden | the peace
+das Führungszeugnis | the certificate of good conduct
+der Gedanke | the thought
+die Geduld | the patience
+die Gemeinsamkeit | the commonality
+der Geruch | the smell
+das Gesundheitszeugnis | the health certificate
+das Heimweh | the homesickness
+das Herkunftsland | the country of origin
+die Kopie | the copy
+die Mentalität | the mentality
+der/die Pflegehelfer/in | the nursing assistant
+die Pflegekraft | the nurse
+die Reihe | the row
+der/die Sachbearbeiter/in | the clerk
+der Sprachnachweis | the language certificate
+die Übersetzung | the translation
+das Übersetzungsbüro | the translation agency
+das Ziel | the goal
+der/die Abteilungsleiter/in | the department head
+der/die Altenpfleger/in | the geriatric nurse
+die Anlage | the facility
+die Annahme | the acceptance
+die Anstellung | the employment
+die Arbeitsstelle | the job
+die Arbeitsweise | the way of working
+die Arbeitszeit | the working hours
+die Assistenz | the assistance
+die Aufteilung | the division
+der Auszug | the extract
+der Bachelor | the bachelor’s degree
+die Berufsbezeichnung | the job title
+die Berufserfahrung | the professional experience
+das Berufsleben | the professional life
+die Betriebswirtschaft | the business administration
+das Bewerbungsschreiben | the application letter
+der/die Bilanzbuchhalter/in | the accountant
+das Briefpapier | the stationery
+das Büromaterial | the office supplies
+die Bürozeit | the office hours
+das Catering | the catering
+das Eintrittsdatum | the start date
+der Empfang | the reception
+die Erstellung | the creation
+das Fax | the fax
+die Festanstellung | the permanent position
+das Finanzwesen | the Finance
+der Firmensitz | the company headquarters
+der Föhn | the hairdryer
+die Formulierung | the wording
+die Fortbildung | the training
+die Frisur | the hairstyle
+die Gehaltsvorstellung | the salary expectations
+der/die Geschäftsführer/in | the managing director
+die Geschäftsführung | the management
+die Handlung | the action
+die Herausforderung | the challenge
+die Jobbezeichnung | the job title
+der Kamm | the comb
+die Kommunikationsstärke | the communication skills
+der Konferenzraum | the conference room
+die Kontaktdaten (Pl.) | the contact details (pl.)
+der/die Manager/in | the manager
+der Maschinenbau | the mechanical engineering
+der/die Millionär/in | the millionaire
+das Niveau | the level
+das Original | the original
+der PC | the PC
+der Posteingang | the inbox
+die Probezeit | the probationary period
+die Qualifikation | the qualification
+der/die Sales Manager/in | the sales manager
+das Schreiben | the letter
+der/die Selbstständige | the self-employed
+das Seniorenheim | the retirement home
+die Speise | the meal
+die Stellenanzeige | the job advertisement
+der Steuerberater | the tax advisor
+das Steuerberatungsbüro | the tax consultancy office
+die Teamfähigkeit | the ability to work in a team
+die Telekommunikation | the telecommunications
+der Terminkalender | the appointment calendar
+die Überstunde | the overtime
+der Umgang | the interaction
+die Umschulung | the retraining
+das Unternehmen | the company
+der Urlaubstag | the holiday
+die Vergütung | the remuneration
+die Verstärkung | the reinforcement
+die Weiterleitung | the forwarding
+das Werkzeug | the tool
+der Zeitpunkt | the timing
+die Zusatzqualifikation | the additional qualification
+die Zuverlässigkeit | the reliability
+das Besprechungszimmer | the meeting room
+der Büroalltag | the everyday office life
+der/die Büroassistent/in | the office assistant
+der Büroraum | the office space
+die Dienstleistung | the service
+die Energiekosten (Pl.) | the energy costs (pl.)
+die Energieverschwendung | the energy waste
+der/die Handwerker/in | the craftsman/woman
+die Heizkosten (Pl.) | heating costs (pl.)
+der/die König/in | the king/queen
+der Kopierer | the copier
+die Million | the million
+die Privatnummer | the private number
+die Reinigungsfirma | the cleaning company
+der Reinigungsvertrag | the cleaning contract
+der Strom | the electricity
+der Stromanbieter | the electricity provider
+die Stromkosten (Pl.) | the electricity costs (pl.)
+der Verbrauch | the consumption
+das Vertragsende | the end of the contract
+die Vertragsnummer | the contract number
+die Wärme | the heat
+der Wasserhahn | the tap
+die Weise | the way
+die Zusammenarbeit | the cooperation
+die Allergie | the allergy
+der Anbau | the cultivation
+die Bedingung | the condition
+die Berufstätigkeit | the employment
+die Bevölkerung | the population
+das Bioprodukt | the organic product
+der/die Diabetiker/in | the diabetic
+der Döner | the kebab
+das Einkommen | the income
+das Eiweiß | the protein
+die Ernährung | the diet
+der/die Esser/in | the eater
+das Fertiggericht | the ready meal
+der Freundeskreis | the circle of friends
+der Frust | the frustration
+der Gang | the walk
+der/die Gemüsehändler/in | the greengrocer
+der Geschmack | the taste
+das Getreide | the grain
+der Hartweizen | the durum wheat
+die Haselnuss | the hazelnut
+der Hauptgrund | the main reason
+die Hülsenfrucht | the legume
+die Institution | the institution
+das Kochbuch | the cookbook
+die Laune | the mood
+die Massentierhaltung | the factory farming
+der Milchzucker | the lactose
+der Nährstoff | the nutrient
+das Nahrungsmittel | the foodstuff
+die Nuss | the nut
+der Quark | the curd
+die Studie | the study
+die Tiefkühlpizza | the frozen pizza
+der Trend | the trend
+der/die Veganer/in | the vegan
+der Verzehr | the consumption
+der Wert | the value
+die Wurst | the sausage
+der Zeitmangel | the lack of time
+der Zeitungsbericht | the newspaper report
+der Zusatzstoff | the additive
+der Außenspiegel | the wing mirror
+der/die Autofahrer/in | the driver
+die Automarke | the car brand
+das Autoteil | the car part
+die Autoversicherung | the car insurance
+das Benzin | the petrol
+der Blinker | the indicator
+das Dach | the roof
+der Diebstahl | the theft
+das Dorf | the village
+der/die Einbrecher/in | the burglar
+der Einbruch | the break-in
+die Fahrerseite | the driver's side
+der/die Freiwillige | the volunteer
+der Gebrauchtwagen | the used car
+die Haftpflicht | the liability
+die Haftpflichtversicherung | the liability insurance
+der Hagel | the hail
+der Hügel | the hill
+die Kaskoversicherung | the comprehensive insurance
+der Kilometer | the kilometer
+der Kofferraum | the trunk
+der Kratzer | the scratch
+der Motor | the engine
+die Motorhaube | the hood
+der/die Motorradfahrer/in | the motorcyclist
+der Neuwagen | the new car
+das Nummernschild | the license plate
+der Oldtimer | the classic car
+die Parklücke | the parking space
+der Personenschaden | the personal injury
+die Regulierung | the adjustment
+der Reifen | the tires
+das Rücklicht | the tail light
+die Rückscheibe | the rear window
+der Sachschaden | the material damage
+der Schadensfall | the claim
+die Scheibe | the window
+der Scheinwerfer | the headlight
+der Schläger | the bat
+der Sinn | the meaning
+der Sportwagen | the sports car
+die Stoßstange | the bumper
+der Straßenrand | the roadside
+der Straßenverkehr | the traffic
+der Sturm | the storm
+das/der Sport Utiliy Vehicle (SUV) | the sport utility vehicle (SUV)
+die Teilkaskoversicherung (Teilkasko) | the partial comprehensive insurance (partial comprehensive insurance)
+die Überschwemmung | the flood
+der Unfall | the accident
+die Unfallgefahr | the risk of accident
+der/die Versicherungsberater/in | the insurance advisor
+der Versicherungsschutz | the Insurance cover
+die Vollkaskoversicherung (Vollkasko) | the fully comprehensive insurance (fully comprehensive)
+die Windschutzscheibe | the windshield
+die Zusatzversicherung | the additional insurance

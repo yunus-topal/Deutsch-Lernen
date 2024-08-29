@@ -1,0 +1,270 @@
+die Abendkasse | the box office
+die App | the app
+der Benutzername | the user name
+die Datei | the file
+der Eintritt | the entrance
+die Empfehlung | the recommendation
+der Flohmarkt | the flea market
+das Forum | the forum
+das Internet | the internet
+das Kennwort | the password
+die Kinokarte | the cinema ticket
+der Kommentar | the commentary
+das Kulturcafé | the cultural café
+der/die Leser/in | the reader
+der Neffe | the nephew
+die Politik | the politics
+das Programm | the programme
+die Radtour | the cycle tour
+der Regen | the rain
+der Regenschirm | the umbrella
+die Reihenfolge | the order
+die Reservierung | the reservation
+die Rolle | the roll
+das Smartphone | the smartphone
+das Spielzeug | the toy
+die Startseite | the home page
+das Straßenfest | the street party
+das Symbol | the symbol
+die Temperatur | the temperature
+das Theater | the theatre
+der Treffpunkt | the meeting place
+die Verabredung | the appointment
+die Veranstaltung | the event
+der Veranstaltungstipp | the event tip
+der Vorschlag | the suggestion
+die Welt | the world
+die Wettervorhersage | the weather forecast
+die Wirtschaft | the economy
+das Würstchen | the sausage
+die Abfahrt | the departure
+die Ankunft | the arrival
+der Anschluss | the connection
+der Anschlusszug | the connecting train
+das Autofahren | driving a car
+der Automat | the vending machine
+das Bahnfahren | travelling by train
+der Bahnsteig | the platform
+die Dauer | the duration
+die Einfahrt | the entrance
+der Fahrkartenschalter | the ticket counter
+der Fahrplan | the timetable
+der Fernbus | the long-distance bus
+das Flugzeug | the aeroplane
+der Grund | the ground
+der Halt | the stop
+die Hinfahrt | the outward journey
+der/die Mitarbeiter/in | the employee
+die Nummer | the number
+die Option | the option
+das Pech | the bad luck
+die Reisemöglichkeit | the travel option
+das Reiseziel | the destination
+die Richtung | the direction
+die Rückfahrt | the return journey
+der/die Schaffner/in | the conductor
+das Schild | the sign
+der/die Senior/in | the senior
+der Serviceschalter | the service desk
+die Station | the station
+die Störung | the fault
+die Strafe | the penalty
+die Strecke | the route
+die Umwelt | the environment
+die Verbindung | the connection
+die Verspätung | the delay
+die Vorsicht | the caution
+die Zeitschrift | the magazine
+der Zoo | the zoo
+die Ablesung | the reading
+das Altglas | the old glass
+der Beinbruch | the broken leg
+die Beschwerde | the complaint
+der Bezirk | the district
+der Biomüll | the organic waste
+die Biotonne | the organic waste bin
+das Brett | the board
+der Briefkasten | the letterbox
+die Ecke | the corner
+die Einbauküche | the fitted kitchen
+die Einweihungsparty | the housewarming party
+die Einwurfzeit | the time of posting
+der Einzug | moving in
+der Fahrradständer | the bicycle stand
+die Fernwärme | the district heating
+das Gas | the gas
+der Glascontainer | the glass container
+der/die Hausbewohner/in | the tenant
+der/die Hausmeister/in | the caretaker
+die Hausordnung | the house rules
+die Hausregel | the house rules
+die Hausreinigung | the house cleaning
+die Hausverwaltung | the property management
+der Kellerzugang | the cellar access
+der Kinderwagen | the pram
+die Kleinmöbel (Pl.) | the small furniture (pl.)
+die Kommode | the chest of drawers
+der/die Lieferant/in | the supplier
+der/die Makler/in | the estate agent
+der/die Mieter/in | the tenant
+der/die Mitbewohner/in | the flatmate
+die Mitteilung | the notice
+die Müllabfuhr | the rubbish collection service
+die Nachbarschaft | the neighbourhood
+die Nachricht | the message
+der Nachtisch | the dessert
+die Nähe | the neighbourhood
+der Restmüll | the residual waste
+der Spiegel | the mirror
+der Stellplatz | the car park
+die Tiefgarage | the underground car park
+die Tonne | the bin
+die Treppe | the stairs
+das Treppenhaus | the staircase
+der Umzug | the move
+der Umzugskarton | the moving box
+die Vase | the vase
+der Verbraucherzähler | the consumer meter
+der/die Vermieter/in | the landlord
+die Wohngemeinschaft | the flat-sharing community
+die Wohnungsbesichtigung | the flat viewing
+der Wunsch | the wish
+der Zähler | the meter
+der Zugang | access
+die Abmeldung | deregistration
+das Amt | the office
+das Amtsdeutsch | the official German
+der/die Angehörige | the relative
+die Anschrift | the address
+der Antrag | the application
+der/die Antragsteller/in | the applicant
+die Arbeitsagentur | the employment agency
+die Arbeitserlaubnis | the work permit
+das Arbeitslosengeld | the unemployment benefit
+der Arbeitsplatz | the workplace
+die Arbeitsvermittlung | the job centre
+der Aufenthalt | residence
+die Aufenthaltserlaubnis | the residence permit
+der Ausbildungsplatz | the training place
+das Ausländeramt | the immigration office
+die Ausländerbehörde | the foreigners authority
+der Ausweis | the identity card
+die Behörde | the authority
+die Berufsberatung | the careers advice centre
+das Berufsinformationszentrum | the careers information centre
+der/die Cousin/e | the cousin(s)
+das Dokument | the document
+der/die Ehepartner/in | the spouse
+die Eheschließung | the marriage
+das Einwohnermeldeamt | the residents' registration office
+der/die Enkel/in | the grandchild
+das Enkelkind | the grandchild
+das Familienbuch | the family register
+die Familienkasse | the family benefits office
+das Familienmitglied | the family member
+das Finanzamt | the tax office
+die Geburt | the birth
+das Geburtsdatum | the date of birth
+das Geburtsland | the country of birth
+der Geburtsname | the birth name
+der Geburtsort | the place of birth
+die Geburtsurkunde | the birth certificate
+das Geschlecht | the gender
+die Integration | the integration
+der Integrationskurs | the integration course
+das Kindergeld | the child benefit
+der/die Lebenspartner/in | the life partner
+der Lichtbildausweis | the photo ID
+die Nichte | the niece
+der Personalausweis | identity card
+der Reisepass | passport
+die Schwiegereltern (Pl.) | the parents-in-law (pl.)
+die Staatsangehörigkeit | the nationality
+das Team | the team
+der Teil | the part
+die Unterlagen (Pl.) | the documents (pl.)
+die Urkunde | the document
+die Webseite | the website
+die Zulassungsstelle | the admissions office
+das Abitur (Abi) | the Abitur (Abitur)
+der Abschluss | the degree
+der/die Anfänger/in | the beginner
+die Architektur | the architecture
+das Ausland | the foreign country
+der Autounfall | the car accident
+die Beratung | counselling
+der Bereich | the field
+die Berufsausbildung | vocational training
+die Berufsschule | the vocational school
+der Bildungsweg | the educational path
+die Büroorganisation | the office organisation
+das Chaos | the chaos
+die Decke | the ceiling
+das Ende | the end
+die Energie | the energy
+die Fitness | the fitness
+der/die Frisör/in | the hairdresser
+die Kategorie | the category
+die Kenntnisse (Pl.) | the knowledge (pl.)
+die Kommunikation | communication
+die Kursgebühr | the course fee
+das Kurzprogramm | the short programme
+der Lebensweg | the way of life
+die Lehre | the teaching
+das Lehrmaterial | the teaching material
+das Material | the material
+das Prost | the prost
+die Prüfung | the exam
+das Prüfungstraining | the exam training
+der Realschulabschluss | the secondary school leaving certificate
+die Schulzeit | the school term
+das Semester | the semester
+die Situation | the situation
+die Terminplanung | the scheduling
+der Test | the test
+das Thema | the subject
+die Theorie | the theory
+das Training | the training
+der Trick | the trick
+die Überraschung | the surprise
+die Überschrift | the heading
+die Vorkenntnisse (Pl.) | the previous knowledge (pl.)
+das Vorstellungsgespräch | the job interview
+die Weiterbildung | further training
+das Yoga | the yoga
+das Zeitmanagement | time management
+das Zertifikat | the certificate
+das Zeugnis | the certificate
+der/die Ansprechpartner/in | the contact person
+der Aushilfsjob | the temporary job
+der/die Auszubildende (Azubi) | the trainee (apprentice)
+der/die Bäckereifachverkäufer/in | the bakery sales assistant
+das Beratungsgespräch | the counselling interview
+das Berufsfeld | the occupational field
+der/die Bewerber/in | the applicant
+das Holz | the wood
+der/die Informatiker/in | the computer scientist
+die Kneipe | the pub
+die Küchenhilfe | kitchen help
+die Laufbahn | the career
+der Lebenslauf | the CV
+die Mittelschule | the secondary school
+der/die Modedesigner/in | the fashion designer
+das Muster | the pattern
+die Reinigungsarbeiten (Pl.) | the cleaning work (pl.)
+die Rente | the pension
+der/die Restaurantfachmann/-frau | the restaurant specialist
+die Stelle | the job
+das Stellenangebot | the job offer
+die Stellensuche | the job search
+die Struktur | the structure
+die Teilzeit | the part-time job
+die Teilzeitstelle | the part-time job
+der Tippfehler | the typo
+der/die Tischler/in | the carpenter
+die Übersiedlung | the relocation
+das Volleyball | the volleyball
+die Vollzeit | the full-time job
+die Vollzeitstelle | the full-time position
+die Voraussetzung | the requirement
+die Vorlage | the template

@@ -1,0 +1,338 @@
+die Ampel | the traffic lights
+die Ankunftszeit | the arrival time
+die Ansage | the announcement
+die Apotheke | the pharmacy
+der Arzt | the doctor
+die Ärztin | the doctor
+die Auskunft | the information
+das Auto | the car
+die Bahn | the railway
+der Bahnhof | the railway station
+der Ball | the ball
+die Bank | the bank
+die Bibliothek | the library
+das Bürgerbüro | the citizen's office
+der Bus | the bus
+die Bushaltestelle | the bus stop
+das Café | the café
+die Durchsage | the announcement
+die Einzelfahrkarte | the single ticket
+der Erwachsene | the adult
+der Fahrgast | the passenger
+die Fahrkarte | the ticket
+das Fahrrad | the bicycle
+der Flughafen | the airport
+das Gebäude | the building
+das Gleis | the track
+die Haltestelle | the stop
+der Hauptbahnhof | the railway station
+das Hotel | the hotel
+der Informationsschalter | the information desk
+der Intercity (IC) | the Intercity (IC)
+das Jobcenter | the job centre
+das Kino | the cinema
+die Kirche | the church
+das Krankenhaus | the hospital
+die Krankenkasse | the health insurance company
+die Kreuzung | the crossroads
+die Kurzstrecke | the short distance
+die Linie | the line
+die Lösung | the solution
+der Meter | the metre
+der Metzger | the butcher
+die Minute | the minute
+die Mobilität | the mobility
+das Motorrad | the motorbike
+die Orientierung | the orientation
+der Park | the park
+die Parkgebühr | the parking fee
+der Parkplatz | the car park
+die Polizei | the police
+die Position | the position
+die Post | the post office
+das Rathaus | the town hall
+die Regionalbahn | the regional railway
+das Restaurant | the restaurant
+die Ruhe | the peace and quiet
+der Schienenersatzverkehr | the rail replacement service
+das Schwimmbad | the swimming pool
+der Stadtplan | the city map
+der Stadtwald | the city forest
+die Straßenbahn | the tram
+die Tageskarte | the day ticket
+das Taxi | the taxi
+die Verfügung | the disposal
+das Verkehrsmittel | the means of transport
+die Volkshochschule (VHS) | the adult education centre (VHS)
+der Weg | the route
+der Winter | the winter
+der Wochenmarkt | the weekly market
+der Zug | the train
+der Arbeitstag | the working day
+die Ausbildung | the apprenticeship
+die Aushilfe | the temp
+der Automechaniker | the car mechanic
+die Automechanikerin | the car mechanic
+der Bäcker | the baker
+die Bäckerin | the baker
+der Beruf | the profession
+die Bürokauffrau | office clerk
+der Bürokaufmann | the office clerk
+der Chef | the boss
+die Chefin | the boss
+das Computerprogramm | the computer programme
+das Computersystem | the computer system
+der Fahrer | the driver
+der Feierabend | the end of the day
+der Führerschein | the driving licence
+der Fußballspieler | the footballer
+die Gitarre | the guitar
+die Hausfrau | the housewife
+der Hausmann | the househusband
+der Hund | the dog
+die Kantine | the canteen
+die Kasse | the cashier
+der Kassierer | the cashier
+die Kassiererin | the cashier
+die Kauffrau | the clerk
+der Kellner | the waiter
+die Kellnerin | the waitress
+der Koch | the cook
+die Köchin | the cook
+der Kollege | the colleague
+die Kollegin | the colleague
+das Konzert | the concert
+das Kraftfahrzeug (KFZ) | the motor vehicle (KFZ)
+der Krankenpfleger | the nurse
+die Krankenschwester | the nurse
+die Leute (Pl.) | the people (pl.)
+die Mathematik | the maths
+der Mechaniker | the mechanic
+der Mensch | the person
+das Mittagessen | the lunch
+der Moment | the moment
+der Musiklehrer | the music teacher
+die Musiklehrerin | the music teacher
+der Nachtdienst | the night shift
+der Pizzafahrer | the pizza driver
+die Pizzeria | the pizzeria
+die Pflege | the carer
+das Radio | the radio
+der Rentner | the pensioner
+die Reparatur | the repair
+der Reporter | the reporter
+der Roman | the novel
+der Schüler | the pupil
+die Schülerin | the pupil
+der Stress | the stress
+der Student | the student
+die Studentin | the student
+der Taxifahrer | the taxi driver
+die Taxifahrerin | the taxi driver
+der Techniker | the technician
+das Telefon | the telephone
+der Traumberuf | the dream job
+die Universität | the university
+die Werkstatt | the workshop
+das Wiederhören | the rehearsal
+das Altenpflegeheim | the nursing home
+die Anrede | the salutation
+der Arm | the arm
+das Auge | the eye
+der Bauch | the belly
+das Bein | the leg
+die Bauchschmerzen (Pl.) | the stomach ache (pl.)
+der Bescheid | the decision
+die Besserung | the recovery
+der Betreff | the subject
+der Brief | the letter
+der Briefteil | the letter part
+die Brust | the breast
+das Datum | the date
+der Ellbogen/Ellenbogen | the elbow/elbow
+der Empfänger | the recipient
+das Entschuldigungsschreiben | the letter of apology
+die Erkältung | the cold
+das Fieber | the fever
+der Finger | the finger
+das Gesicht | the face
+die Gesundheit | health
+die Gesundheitskarte | the health card
+die Grippe | the flu
+die Gruppe | the group
+das Haar | the hair
+der Hals | the throat
+der Hals-Nasen-Ohren-Arzt (HNO) | the ear, nose and throat doctor (ENT)
+das Halsweh | the sore throat
+die Hand | the hand
+der Hausarzt | the family doctor
+der Husten | the cough
+das Knie | the knee
+der Kopf | the head
+die Kopfschmerzen (Pl.) | the headache (pl.)
+der Körper | the body
+der Körperteil | the body part
+die Krankheit | the illness
+die Krankmeldung | the sick note
+der März | March
+das Medikament | the medicine
+der Mund | the mouth
+der Nacken | the neck
+die Nase | the nose
+die Notfallsprechstunde | the emergency consultation
+das Ohr | the ear
+der Orthopäde | the orthopaedist
+der Patient | the patient
+die Patientin | the patient
+das Pflaster | the plaster
+das Praktikum | the internship
+die Praktikumsbetreuerin | the internship supervisor
+die Praxis | the practice
+die Praxisgemeinschaft | the practice community
+das Rezept | the prescription
+der Rücken | the back
+die Salbe | the ointment
+der Schmerz | the pain
+der Schnupfen | the cold
+die Schulter | the shoulder
+die Sprechstunde | the consultation
+die Sprechstundenhilfe | the receptionist
+das Sprechzimmer | the consulting room
+die Stirn | the forehead
+die Tablette | the tablet
+der Termin | the appointment
+der Tropfen | the drop
+die Unterschrift | the signature
+die Untersuchung | the examination
+der Verband | the dressing
+die Vorsorge | the precaution
+das Wartezimmer | the waiting room
+der Wechsel | the change
+der Zahn | the tooth
+der Zeh | the toe
+der Besuch | the visit
+die Bewegung | the movement
+die Blume | the flower
+der Dienst | the service
+das Ferienhaus | the holiday home
+der Hausflur | the hallway
+das Hobby | the hobby
+der Ingenieur | the engineer
+die Insel | the island
+die Inselrundfahrt | the island tour
+der Koffer | the suitcase
+das Meer | the sea
+der Mond | the moon
+der Nachbar | the neighbour
+die Nachbarin | the neighbour
+die Natur | nature
+die Postkarte | the postcard
+die Reise | the journey
+das Schiff | the ship
+der Seehund | the seal
+der Ski | the ski
+der Strand | the beach
+das Studium | the study
+die Suppe | the soup
+das Tennis | tennis
+der Tourist | the tourist
+der Urlaub | the holiday
+das Wetter | the weather
+der Anzug | the suit
+die Bluse | the blouse
+der Einkaufsbummel | the shopping trip
+die Farbe | the colour
+das Hemd | the shirt
+die Hose | the trousers
+die Jacke | the jacket
+die Jeans | the jeans
+der Jogginganzug | the jogging suit
+der Kassenbon | the receipt
+das Kaufhaus | the department stores'
+die Klamotten (Pl.) | the clothes (pl.)
+das Kleid | the dress
+die Kleidung | the clothes
+das Kleidungsstück | the garment
+der Mantel | the coat
+die Mode | the fashion
+das Modell | the model
+die Mütze | the cap
+die Ordnung | the order
+das Paar | the pair
+der Prospekt | the brochure
+der Pullover | the jumper
+der Rock | the skirt
+der Schal | the scarf
+der Schuh | the shoe
+die Socke | the sock
+der Sportschuh | the sports shoe
+die Strickjacke | the cardigan
+der Strumpf | the sock
+das T-Shirt | the T-shirt
+der Wintermantel | the winter coat
+die Achtung | the respect
+der April | April
+der August | August
+der Baum | the tree
+die Braut | the bride
+der Dank | the thanks
+die Deutschlandkarte | the map of Germany
+der Dezember | December
+die Einladung | the invitation
+das Eis | the ice cream
+der Februar | February
+die Feier | the celebration
+das Fest | the festival
+der Frühling | the spring
+die Gartenparty | the garden party
+der Geburtstag | the birthday
+die Geburtstagstorte | the birthday cake
+das Geschenk | the present
+der Glückstag | the lucky day
+der Grad | the degree
+der Handschuh | the glove
+der Hase | the rabbit
+der Herbst | the autumn
+die Himmelsrichtung | the cardinal point
+die Hochzeit | the wedding
+die Hochzeitsfeier | the wedding ceremony
+die Jahreszahl | the year
+die Jahreszeit | the season
+der Januar | January
+der Juli | July
+der Kalender | the calendar
+der Luftballon | the balloon
+der Mai | May
+die Mama | the mum
+der Norden | the north
+der November | November
+der Oktober | October
+das Oktoberfest | the Oktoberfest
+die Oma | the granny
+der Osten | the East
+das Osterei | the Easter egg
+das Osterfest | the Easter festival
+der Osterhase | the Easter bunny
+das Ostern | Easter
+der Papa | the dad
+der Schatz | the treasure
+der Schnee | the snow
+der Schneemann | the snowman
+der Schokoladenkuchen | the chocolate cake
+der Sekt | the champagne
+der September | September
+der Sommer | the summer
+die Spezialität | the speciality
+das Standesamt | the registry office
+der Süden | the south
+der Teller | the plate
+die Torte | the cake
+der Unglückstag | the unlucky day
+das Weihnachten | Christmas
+der Weihnachtsbaum | the Christmas tree
+die Weihnachtsfeier | the Christmas party
+das Weihnachtsgeschenk | the Christmas present
+der Weihnachtsmann | Father Christmas
+das Westdeutschland | West Germany
+der Westen | the West
+der Wetterbericht | the weather forecast
